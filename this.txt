@@ -1,0 +1,223 @@
+Control Identifiers:
+
+Dialog - 'Advanced Optics'    (L-10, T-10, R1930, B1040)
+['Dialog', 'Advanced Optics', 'Advanced OpticsDialog']
+child_window(title="Advanced Optics", control_type="Window")
+   | 
+   | Pane - ''    (L0, T29, R1920, B1030)
+   | ['6.10.2 Semiconductor laser amplifiers Pane', 'Pane']
+   | child_window(auto_id="64229664", control_type="Pane")
+   |    | 
+   |    | Image - ''    (L0, T29, R309, B98)
+   |    | ['Image', 'Image0', 'Image1']
+   |    | 
+   |    | Image - ''    (L0, T98, R1920, B998)
+   |    | ['Image2', '6.10.2 Semiconductor laser amplifiers Image', '6.10.2 Semiconductor laser amplifiers Image0', '6.10.2 Semiconductor laser amplifiers Image1']
+   |    | 
+   |    | Button - ''    (L899, T29, R957, B98)
+   |    | ['Button', 'Button0', 'Button1']
+   |    | 
+   |    | Button - ''    (L956, T29, R1014, B98)
+   |    | ['Button2']
+   |    | 
+   |    | Button - ''    (L1014, T29, R1072, B98)
+   |    | ['Button3']
+   |    | 
+   |    | Image - ''    (L650, T110, R1270, B985)
+   |    | ['Image4', '6.10.2 Semiconductor laser amplifiers Image3']
+   |    | 
+   |    | Image - ''    (L0, T0, R0, B0)
+   |    | ['Image5']
+   |    | 
+   |    | Button - ''    (L1184, T29, R1242, B98)
+   |    | ['Button4']
+   |    | 
+   |    | Image - ''    (L650, T120, R695, B975)
+   |    | ['Image6']
+   |    | 
+   |    | Edit - ''    (L1096, T50, R1159, B81)
+   |    | ['Edit']
+   |    | 
+   |    | Button - ''    (L1241, T29, R1299, B98)
+   |    | ['Button5']
+   |    | 
+   |    | Button - ''    (L1299, T29, R1357, B98)
+   |    | ['Button6']
+   |    | 
+   |    | Static - ' \r\n '    (L736, T166, R737, B190)
+   |    | [' \r\n Static', 'Static', ' \r\n ', 'Static0', 'Static1']
+   |    | child_window(title=" \r\n ", control_type="Text")
+   |    | 
+   |    | Static - '6.10.2 Semiconductor laser amplifiers '    (L700, T184, R971, B198)
+   |    | ['6.10.2 Semiconductor laser amplifiers Static', 'Static2', '6.10.2 Semiconductor laser amplifiers ']
+   |    | child_window(title="6.10.2 Semiconductor laser amplifiers ", control_type="Text")
+   |    | 
+   |    | Static - 'Semiconductor laser amplifiers operate like ordinary lasers without the mirrors. Ligh'    (L763, T206, R1198, B219)
+   |    | ['Static3', 'Semiconductor laser amplifiers operate like ordinary lasers without the mirrors. Ligh', 'Semiconductor laser amplifiers operate like ordinary lasers without the mirrors. LighStatic']       
+   |    | child_window(title="Semiconductor laser amplifiers operate like ordinary lasers without the mirrors. Ligh", control_type="Text")
+   |    | 
+   |    | Static - 'Optical drivers and detectors  137 '    (L1055, T158, R1209, B168)
+   |    | ['Optical drivers and detectors  137 Static', 'Static4', 'Optical drivers and detectors  137 '] 
+   |    | child_window(title="Optical drivers and detectors  137 ", control_type="Text")
+   |    | 
+   |    | Static - 'from the external source makes one pass through the active area and stimulates furthe'    (L763, T221, R1197, B234)
+   |    | ['Static5', 'from the external source makes one pass through the active area and stimulates furtheStatic', 'from the external source makes one pass through the active area and stimulates furthe']       
+   |    | child_window(title="from the external source makes one pass through the active area and stimulates furthe", control_type="Text")
+   |    | 
+   |    | Static - 'photon emissions. One major difficulty with these devices involves the coupling of ligh'    (L763, T236, R1198, B247)
+   |    | ['photon emissions. One major difficulty with these devices involves the coupling of lighStatic', 'Static6', 'photon emissions. One major difficulty with these devices involves the coupling of ligh']   
+   |    | child_window(title="photon emissions. One major difficulty with these devices involves the coupling of ligh", control_type="Text")
+   |    | 
+   |    | Static - 'into the laser, as shown in Figure 6.17. The semiconductor laser has an active area severa'    (L763, T250, R1198, B263)
+   |    | ['into the laser, as shown in Figure 6.17. The semiconductor laser has an active area severaStatic', 'into the laser, as shown in Figure 6.17. The semiconductor laser has an active area severa', 'Static7']
+   |    | child_window(title="into the laser, as shown in Figure 6.17. The semiconductor laser has an active area severa", control_type="Text")
+   |    | 
+   |    | Static - 'microns wide and less than a micron thick. The light exiting a singlemode fiber wil'  
+  (L763, T265, R1198, B276)
+   |    | ['microns wide and less than a micron thick. The light exiting a singlemode fiber wil', 'microns wide and less than a micron thick. The light exiting a singlemode fiber wilStatic', 'Static8']
+   |    | child_window(title="microns wide and less than a micron thick. The light exiting a singlemode fiber wil", control_type="Text")
+   |    | 
+   |    | Button - ''    (L0, T394, R70, B700)
+   |    | ['Button7']
+   |    | 
+   |    | Static - 'produce a beam of at least 9 microns diameter. Clearly, most of this light from the fibe'    (L763, T279, R1197, B292)
+   |    | ['Static9', 'produce a beam of at least 9 microns diameter. Clearly, most of this light from the fibe', 'produce a beam of at least 9 microns diameter. Clearly, most of this light from the fibeStatic'] 
+   |    | child_window(title="produce a beam of at least 9 microns diameter. Clearly, most of this light from the fibe", control_type="Text")
+   |    | 
+   |    | Static - 't '    (L1198, T206, R1211, B219)
+   |    | ['t ', 'Static10', 't Static', 't 0', 't 1', 't Static0', 't Static1']
+   |    | child_window(title="t ", control_type="Text")
+   |    | 
+   |    | Static - 'VISIONةيؤرلا                                                                      '   
+ (L735, T289, R1173, B307)
+   |    | ['VISIONةيؤرلا                                                                      Static', 'Static11', 'VISIONةيؤرلا                                                                      ']
+   |    | child_window(title="VISIONةيؤرلا
+      ", control_type="Text")
+   |    | 
+   |    | Static - 'r '    (L1196, T221, R1210, B234)
+   |    | ['r ', 'Static12', 'r Static', 'r 0', 'r 1', 'r Static0', 'r Static1']
+   |    | child_window(title="r ", control_type="Text")
+   |    | 
+   |    | Static - 'will miss the active input layer of the laser and be lost. This high transfer loss from fibers'    (L763, T294, R1201, B305)
+   |    | ['will miss the active input layer of the laser and be lost. This high transfer loss from fibersStatic', 'will miss the active input layer of the laser and be lost. This high transfer loss from fibers', 'Static13']
+   |    | child_window(title="will miss the active input layer of the laser and be lost. This high transfer loss from fibers", control_type="Text")
+   |    | 
+   |    | Static - 'offsets most of the gain produced by the laser amplifier. However, these devices can be'    (L763, T308, R1201, B321)
+   |    | ['offsets most of the gain produced by the laser amplifier. However, these devices can beStatic', 'Static14', 'offsets most of the gain produced by the laser amplifier. However, these devices can be']  
+   |    | child_window(title="offsets most of the gain produced by the laser amplifier. However, these devices can be", control_type="Text")
+   |    | 
+   |    | Static - 't '    (L1196, T236, R1210, B247)
+   |    | ['t 2', 'Static15', 't Static2']
+   |    | child_window(title="t ", control_type="Text")
+   |    | 
+   |    | Static - ' '    (L0, T0, R0, B0)
+   |    | ['Static16', ' Static', ' ', ' Static0', ' Static1', ' 0', ' 1']
+   |    | child_window(title=" ", control_type="Text")
+   |    | 
+   |    | Static - 'usefully integrated onto chips with other semiconductor optical devices, such as lase'    (L763, T323, R1197, B336)
+   |    | ['Static17', 'usefully integrated onto chips with other semiconductor optical devices, such as lase', 'usefully integrated onto chips with other semiconductor optical devices, such as laseStatic']      
+   |    | child_window(title="usefully integrated onto chips with other semiconductor optical devices, such as lase", control_type="Text")
+   |    | 
+   |    | Static - 'l '    (L1198, T250, R1211, B263)
+   |    | ['Static18', 'l ', 'l Static', 'l 0', 'l 1', 'l Static0', 'l Static1']
+   |    | child_window(title="l ", control_type="Text")
+   |    | 
+   |    | Static - 'sources, to avoid such transfer losses.     \r\n '    (L761, T338, R966, B364)        
+   |    | ['sources, to avoid such transfer losses.     \r\n Static', 'sources, to avoid such transfer losses.     \r\n ', 'Static19']
+   |    | child_window(title="sources, to avoid such transfer losses.     \r\n ", control_type="Text")    
+   |    | 
+   |    | Static - 'l '    (L1198, T265, R1211, B276)
+   |    | ['Static20', 'l 2', 'l Static2']
+   |    | child_window(title="l ", control_type="Text")
+   |    | 
+   |    | Static - 'r '    (L1196, T279, R1210, B292)
+   |    | ['r 2', 'Static21', 'r Static2']
+   |    | child_window(title="r ", control_type="Text")
+   |    | 
+   |    | Static - ' '    (L1199, T294, R1210, B305)
+   |    | ['Static22', ' Static2', ' 2']
+   |    | child_window(title=" ", control_type="Text")
+   |    | 
+   |    | Static - ' '    (L1199, T308, R1210, B321)
+   |    | ['Static23', ' Static3', ' 3']
+   |    | child_window(title=" ", control_type="Text")
+   |    | 
+   |    | Static - 'r '    (L1196, T323, R1210, B336)
+   |    | ['r 3', 'Static24', 'r Static3']
+   |    | child_window(title="r ", control_type="Text")
+   |    | 
+   |    | Static - 'MISSIONرلاةلس                                                                  '    (L736, T444, R1174, B463)
+   |    | ['Static25', 'MISSIONرلاةل\ue003س
+   ', 'MISSIONرلاةل\ue003س                                                                  Static']      
+   |    | child_window(title="MISSIONرلاةلس
+    ", control_type="Text")
+   |    | 
+   |    | Static - 'Figure 6.17   \r\nSemiconductor laser amplifiers '    (L763, T523, R896, B544)        
+   |    | ['Static26', 'Figure 6.17   \r\nSemiconductor laser amplifiers ', 'Figure 6.17   \r\nSemiconductor laser amplifiers Static']
+   |    | child_window(title="Figure 6.17   \r\nSemiconductor laser amplifiers ", control_type="Text")    
+   |    | 
+   |    | Static - ' '    (L699, T560, R710, B574)
+   |    | ['Static27', ' Static4', ' 4']
+   |    | child_window(title=" ", control_type="Text")
+   |    | 
+   |    | Static - ' '    (L1075, T516, R1079, B519)
+   |    | ['Static28', ' Static5', ' 5']
+   |    | child_window(title=" ", control_type="Text")
+   |    | 
+   |    | Static - ' '    (L0, T0, R0, B0)
+   |    | ['Static29', ' Static6', ' 6']
+   |    | child_window(title=" ", control_type="Text")
+   |    | 
+   |    | Button - ''    (L1850, T394, R1920, B700)
+   |    | ['r Button', 'Button8']
+   |    | 
+   |    | Static - '. '    (L996, T568, R1007, B571)
+   |    | ['. ', 'Static30', '. Static']
+   |    | child_window(title=". ", control_type="Text")
+   |    | 
+   |    | Static - ' \r\n \r\n \r\n '    (L0, T0, R0, B0)
+   |    | ['Static31', ' \r\n \r\n \r\n Static', ' \r\n \r\n \r\n ']
+   |    | child_window(title=" \r\n \r\n \r\n ", control_type="Text")
+   |    | 
+   |    | Button - ''    (L1, T998, R112, B1034)
+   |    | ['Button9']
+   |    | 
+   |    | Static - ' ii \r\n '    (L736, T893, R1181, B931)
+   |    | [' ii \r\n Static', 'Static32', ' ii \r\n ']
+   |    | child_window(title=" ii \r\n ", control_type="Text")
+   |    | 
+   |    | Static - '73'    (L1168, T920, R1181, B930)
+   |    | ['73Static', 'Static33', '73']
+   |    | child_window(title="73", control_type="Text")
+   |    | 
+   |    | Button - ''    (L1550, T998, R1645, B1034)
+   |    | ['73Button', 'Button10', '73Button0', '73Button1']
+   |    | 
+   |    | Button - ''    (L1648, T998, R1752, B1034)
+   |    | ['73Button2', 'Button11']
+   |    | 
+   |    | Button - ''    (L1759, T998, R1912, B1034)
+   |    | ['73Button3', 'Button12']
+   | 
+   | TitleBar - ''    (L20, T-6, R1920, B29)
+   | ['TitleBar']
+   |    | 
+   |    | Menu - 'System'    (L0, T0, R22, B22)
+   |    | ['System', 'SystemMenu', 'Menu', 'System0', 'System1']
+   |    | child_window(title="System", auto_id="MenuBar", control_type="MenuBar")
+   |    |    |
+   |    |    | MenuItem - 'System'    (L0, T0, R22, B22)
+   |    |    | ['MenuItem', 'System2', 'SystemMenuItem']
+   |    |    | child_window(title="System", control_type="MenuItem")
+   |    |
+   |    | Button - 'Minimize'    (L1740, T10, R1800, B28)
+   |    | ['MinimizeButton', 'Minimize', 'Button13']
+   |    | child_window(title="Minimize", control_type="Button")
+   |    |
+   |    | Button - 'Restore'    (L1800, T10, R1859, B28)
+   |    | ['Button14', 'RestoreButton', 'Restore']
+   |    | child_window(title="Restore", control_type="Button")
+   |    |
+   |    | Button - 'Close'    (L1859, T10, R1930, B28)
+   |    | ['Close', 'CloseButton', 'Button15']
+   |    | child_window(title="Close", control_type="Button")
